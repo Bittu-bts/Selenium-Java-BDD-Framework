@@ -1,0 +1,7 @@
+2024-03-31 01:07:29,483  INFO [main] baseClass:34 - driver initilaize
+2024-03-31 01:07:29,497  INFO [main] baseClass:40 - Land on Home page
+2024-03-31 01:07:29,588  INFO [main] baseClass:48 - Click on drodown
+2024-03-31 01:07:56,699  INFO [main] baseClass:34 - driver initilaize
+2024-03-31 01:07:56,711  INFO [main] baseClass:40 - Land on Home page
+2024-03-31 01:08:01,396  INFO [main] baseClass:40 - ExcelSheet opened
+2024-03-31 01:08:01,412  INFO [main] baseClass:48 - Entering Keyword
